@@ -34,8 +34,3 @@ ______________
 This project is suited for educational robotics, wireless automation demonstrations, robotics competitions, and general embedded systems learning. It also serves as a base platform for prototyping more advanced autonomous or IoT-connected robotic vehicles.
 
 
-Author
-______
-Deeksha Jaswal,
-B.Tech, Electronics and Communication Engineering- (JNGEC), 
-Focused on embedded systems, robotics, IoT, and AI-driven hardware.
