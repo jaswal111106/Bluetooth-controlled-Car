@@ -36,6 +36,6 @@ This project is suited for educational robotics, wireless automation demonstrati
 
 Author
 ______
-Deeksha Jaswal
-B.Tech, Electronics and Communication Engineering- (JNGEC)
+Deeksha Jaswal,
+B.Tech, Electronics and Communication Engineering- (JNGEC), 
 Focused on embedded systems, robotics, IoT, and AI-driven hardware.
